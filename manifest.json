@@ -1,0 +1,19 @@
+{
+  "manifest_version": 2,
+
+  "name": "获取百度网盘 COOKIES",
+  "description": "获取百度网盘 BDUSS值 STOKEN值 完整COOKIES值",
+  "version": "1.0",
+
+  "permissions": [
+    "cookies",
+    "tabs",
+    "http://*/*",
+    "https://*/*"
+  ],
+
+  "browser_action": {
+    "default_icon": "icon.png",
+    "default_popup": "main.html"
+  }
+}
