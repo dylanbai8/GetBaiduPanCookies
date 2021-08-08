@@ -1,14 +1,14 @@
 # 获取百度网盘 BDUSS值 STOKEN值 完整COOKIES值
 
 ```
-https://github.com/dylanbai8/GetBaiduPanCookies/releases/download/2.0/GetBaiduPanCookies.zip
+https://github.com/dylanbai8/GetBaiduPanCookies/releases/download/3.0/GetBaiduPanCookies.zip
 ```
 
 # 秀一波功能先
 
-![image](https://user-images.githubusercontent.com/26950227/128115257-1d3260f0-bda4-4639-be4a-a9646b19f398.png)
+![image](https://user-images.githubusercontent.com/26950227/128627434-e80a848f-a83b-4e32-9b12-131ea3c040b6.png)
 
-![image](https://user-images.githubusercontent.com/26950227/128115495-40adadc8-0724-4421-9df9-d185b127b261.png)
+![image](https://user-images.githubusercontent.com/26950227/128627508-e28813a8-3f6a-4d02-8b75-8bf28d8a5ce4.png)
 
 # 1. 下载并解压到文件夹
 
