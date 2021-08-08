@@ -4,7 +4,7 @@
 https://github.com/dylanbai8/GetBaiduPanCookies/releases/download/5.0/GetBaiduPanCookies.zip
 ```
 
-# 秀一波功能先
+# 扩展插件界面截图
 
 ![image](https://user-images.githubusercontent.com/26950227/128627434-e80a848f-a83b-4e32-9b12-131ea3c040b6.png)
 
