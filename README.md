@@ -1,7 +1,7 @@
 # 获取百度网盘 BDUSS值 STOKEN值 完整COOKIES值
 
 ```
-https://github.com/dylanbai8/GetBaiduPanCookies/releases/download/5.0/GetBaiduPanCookies.zip
+https://github.com/dylanbai8/GetBaiduPanCookies/releases/download/6.0/GetBaiduPanCookies.zip
 ```
 
 # 扩展插件界面截图
