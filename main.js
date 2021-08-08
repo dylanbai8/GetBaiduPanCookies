@@ -52,7 +52,7 @@ document.addEventListener('DOMContentLoaded', function() {
       function(cookies) {
         var BAIDU_JSON = "";
         var BAIDU_JSON = JSON.stringify(cookies);
-        if (!BAIDU_JSON) {BAIDU_JSON = "您未登录百度网盘";}
+        if (!BAIDU_JSON || BAIDU_JSON === "[]") {BAIDU_JSON = "您未登录百度网盘";}
         document.getElementById("cookies-JSON").innerText = BAIDU_JSON;
       }
     );
