@@ -41,6 +41,7 @@ document.addEventListener('DOMContentLoaded', function() {
           BAIDU_ALL += cookies[i].name + "=" + cookies[i].value + ";";
         }
         if (!BAIDU_ALL) {BAIDU_ALL = "您未登录百度网盘";}
+        BAIDU_ALL = decodeURIComponent(BAIDU_ALL);
         document.getElementById("cookies-ALL").innerText = BAIDU_ALL;
       }
     );
