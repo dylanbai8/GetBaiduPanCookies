@@ -2,7 +2,7 @@
   "manifest_version": 2,
 
   "name": "获取百度网盘 COOKIES",
-  "description": "获取百度网盘 BDUSS值 STOKEN值 完整COOKIES值",
+  "description": "获取百度网盘：BDUSS值、STOKEN值、完整COOKIES值。作者微信：okduang",
   "version": "6.0",
 
   "permissions": [
